@@ -64,7 +64,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Progress-bar Screenshot](_Screenshot.png)
+![ChatBot_Screenshot](C-B_Screenshot.png)
 
 ## 🔗 Live Demo
 

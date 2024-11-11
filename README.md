@@ -50,7 +50,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Progress-Bar-Web.git>
-cd Progress-bar
+cd chatbot
 open index.html
 ```
 
@@ -64,7 +64,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Progress-bar Screenshot](P-B_Screenshot.png)
+![Progress-bar Screenshot](_Screenshot.png)
 
 ## 🔗 Live Demo
 

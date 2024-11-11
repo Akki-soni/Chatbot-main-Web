@@ -49,7 +49,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Progress-Bar-Web.git>
+git clone <https://github.com/Akki-soni/Chatbot-main-Web.git>
 cd chatbot
 open index.html
 ```

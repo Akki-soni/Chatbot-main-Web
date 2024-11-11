@@ -36,10 +36,13 @@
 - **JavaScript (ES6)**: Logic for message handling, API requests, and user interactions.
 - **API**: Used for chatbot responses (e.g., OpenAI API).
 
-## 🚀 How to Use
+## 🚀 How to Works
 
-- ***Open the `index.html` file in your browser.***
-- ***Slide the Progress Bar According to their need***
+- ***User types a message into the input field.***
+- ***When the user clicks the "Send" button, the message is displayed in the chat box.***
+- ***A request is sent to the API to retrieve a response based on the user's message.***
+- ***The response from the API is displayed in the chat as the chatbot's reply.***
+- ***The chat box scrolls automatically to the latest message for better user experience.***
 
 ## 🚀 Project Setup
 

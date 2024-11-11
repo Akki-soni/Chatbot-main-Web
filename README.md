@@ -24,16 +24,17 @@
 ## 🚀 Features
 
 - ***Clean and responsive UI using CSS.***
-- ******
-- ******
-- ******
-- ******
+- ***User and chatbot messages displayed with a clear distinction.***
+- ***Asynchronous interaction using the Fetch API.***
+- ***Integrates with external APIs to fetch chatbot responses.***
+- ***Auto-scrolls to the most recent messages.***
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Used for creating the structure of the webpage.
-- **CSS**: Used for styling the interface.
-- **JavaScript**: Used for logic and functionality, including progress bar.
+- **HTML5**: Structure of the application.
+- **CSS3**: Styling and layout for a modern look.
+- **JavaScript (ES6)**: Logic for message handling, API requests, and user interactions.
+- **API**: Used for chatbot responses (e.g., OpenAI API).
 
 ## 🚀 How to Use
 

@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Progress Bar</h1>
+<h1 align="center">ChatBot</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -18,15 +18,16 @@
 </p>
 
 <p align="center">
-  A simple and responsive Progress Bar created using HTML, CSS, and JavaScript. This project demonstrates how to create a progress bar that updates based on user interaction or predetermined time intervals.
+  This is a simple and modern chatbot application built using HTML, CSS, and JavaScript. The chatbot communicates with users and responds dynamically by fetching responses from an external API.
 </p>
 
 ## 🚀 Features
 
-- ***Responsive design***
-- ***Smooth animations***
-- ***Dynamic progress updates***
-- ***Fully customizable***
+- ***Clean and responsive UI using CSS.***
+- ******
+- ******
+- ******
+- ******
 
 ## 🛠️ Technologies Used
 
